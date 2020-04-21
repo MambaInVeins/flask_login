@@ -1,0 +1,4 @@
+MYSQL_DB_NAME = 'clearmonitor'
+MYSQL_HOST = '127.0.0.1'
+MYSQL_USER = 'root'
+MYSQL_PASSWORD = '123456'
